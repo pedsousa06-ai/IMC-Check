@@ -68,4 +68,4 @@ O IMC é apenas um indicador de referência e não substitui a avaliação de um
 
 ## Licença
 
-Defina aqui a licença do projeto (por exemplo, MIT).
+esse codigo esta sobre licenca mit 
